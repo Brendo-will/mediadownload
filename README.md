@@ -40,7 +40,7 @@ Baixa vídeos do Instagram.
 ## Instalação 
 
 1. Clone o repositório:
-git clone https://github.com/Brendo-will/MediaDownloader.git
+git clone https://github.com/Brendo-will/mediadownload.git   
 cd MediaDownloader
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
